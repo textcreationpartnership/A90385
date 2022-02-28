@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and vindication of Isaack Pennington, now Lord Mayor of the citie of London, of Colonell Ven, Captain Manwaring and Mr. Fowke. Wherein is set forth their loyaltie to His Majestie, and the integritie of their proceedings in serving the King and Parliament. In answer to sundry scandalous pamphlets, wherein they are charged to be the maine incendiaries of these present troubles in the citie of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90385</idno>
+            <idno type="STC">Wing P1147</idno>
+            <idno type="STC">Thomason E89_11</idno>
+            <idno type="STC">ESTC R20088</idno>
+            <idno type="EEBO-CITATION">99861505</idno>
+            <idno type="PROQUEST">99861505</idno>
+            <idno type="VID">155719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155719)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and vindication of Isaack Pennington, now Lord Mayor of the citie of London, of Colonell Ven, Captain Manwaring and Mr. Fowke. Wherein is set forth their loyaltie to His Majestie, and the integritie of their proceedings in serving the King and Parliament. In answer to sundry scandalous pamphlets, wherein they are charged to be the maine incendiaries of these present troubles in the citie of London.</title>
+                  <author>Fowke, Mr.</author>
+                  <author>Manwayring, Henry, Sir, 1587-1653.</author>
+                  <author>Penington, Isaac, Sir, 1587?-1660.</author>
+                  <author>Vern, John, 1586-1650.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 11. Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fowke, --  Mr --  Early works to 1800.</term>
+               <term>Manwayring, Henry, --  Sir, 1587-1653 --  Early works to 1800.</term>
+               <term>Penington, Isaac, --  Sir, 1587?-1660 --  Early works to 1800.</term>
+               <term>Vern, John, 1586-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155719:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>THE DECLARATION AND VINDICATION OF Iſaack Pennington, NOW Lord Mayor of the Citie of LONDON, of Colonell <hi>
+                  <g ref="char:V">Ʋ</g>en,</hi> Captain <hi>Man<g ref="char:EOLhyphen"/>waring,</hi> and Mr. <hi>Fowke.</hi>
+            </p>
+            <p>Wherein is ſet forth their loyaltie to His Majeſtie, and the integritie of their pro<g ref="char:EOLhyphen"/>ceedings in ſerving the King and PARLIAMENT.</p>
+            <p>In anſwer to ſundry ſcandalous Pam<g ref="char:EOLhyphen"/>phlets, wherein they are charged to be the maine Incendiaries of theſe preſent trou<g ref="char:EOLhyphen"/>bles in the Citie of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Humphrey Johnſon. Febr.</hi> 11. <hi>Anno Dom.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155719:2"/>
+            <!-- PDF PAGE 73 -->
+            <pb n="3" facs="tcp:155719:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>The Declaration and Vindication of <hi>Iſaack Pennington</hi> now Lord Mayor of the Citie of <hi>London,</hi> of Colonell <hi>
+                  <g ref="char:V">Ʋ</g>en,</hi> Captaine <hi>Manwaring,</hi> and Mr. <hi>Fowke.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by divers late Expreſſes and Let<g ref="char:EOLhyphen"/>ters to the Citie of <hi>London,</hi> we found our ſelves aimed at by His Sacred Ma<g ref="char:EOLhyphen"/>jeſtie, as men that have diſturbed the publike peace of the Citie; of which we are in our owne conſciences alto<g ref="char:EOLhyphen"/>gether guiltleſſe, having neither acted nor attempted any thing againſt the tranquillitie thereof; nor had any intentions, but what ten<g ref="char:EOLhyphen"/>ded to the true ſervice of his Majeſtie, the good of the Com<g ref="char:EOLhyphen"/>mon-wealth, and the ſecuritie of the Citie of <hi>London.</hi> And have furthermore never done or imagined ought, but what we had juſt authoritie from the High Court of Parliament, which wee were bound in conſcience and equitie to obey, being ſo publikely, and in the eyes of the whole Kingdome, as well of this Citie, whereof wee are members, charged with delinquencie: We eſteemed our ſelves bound, in vindi<g ref="char:EOLhyphen"/>cation of our innocence, to ſet forth theſe our ſerious Decla<g ref="char:EOLhyphen"/>rations of our owne integrities, knowing well that ſuch char<g ref="char:EOLhyphen"/>ges in the too credulous people, who cenſure mens actions by the event, rather than intention, might beget an opinion that we are really guiltie; when before God and our conſci<g ref="char:EOLhyphen"/>ences wee doe beleeve, and dare affirme wee have neither practiſed, or attempted ought, which was not warrantable by
+<pb n="4" facs="tcp:155719:3"/>
+               <!-- PDF PAGE 74 -->the knowne Lawes and conſtitutions of the Kingdome, and for the defence of Gods true Religion and worſhip; yet ſome malignants as it ſhould appeare, have informed His ſa<g ref="char:EOLhyphen"/>cred Majeſty, and others have inſtilled the ſame poyſon to our fames and reputations into the eares of the people, eſpe<g ref="char:EOLhyphen"/>cially in the City of <hi>London,</hi> that we have bin, &amp; are deſirous to advance innovations in the true Church of <hi>England,</hi> and bring in ſtrange doctrines of Browniſme, Anabaptiſme, and the like, things ſo far from our thoughts, much leſſe mea<g ref="char:EOLhyphen"/>nings that we ſhould ſcarcely know their names, were we not inſtructed in them by thoſe as purſue calumnies, which would make us if not the Authors, at leaſt the promoters and defenders of them, when for our parts we have alwayes eſteemed the doctrine of the Church of <hi>England</hi> perfect and Orthodoxall, and ſo have ever demeaned our ſelves as true ſonnes of the ſaid Church, though perhaps ſome innovations and inſolencies (which are not unknowne to the whole world, attempted, if not committed by the Biſhops and Pre<g ref="char:EOLhyphen"/>lates) upon the perſons and eſtates of ſundry of Gods faith<g ref="char:EOLhyphen"/>full ſervants, might make us deſire an abatement of their pride, and a reformation of thoſe groſſe abuſes which they ſought by their unlimited power and authority to obtrude upon the Church; and therein ſurely we performed nothing but what was agreeable to the juſtice of Gods and the Kingdomes Lawes, and what equally deſired by the whole body of the Kingdome now aſſembled in this preſent Par<g ref="char:EOLhyphen"/>liament for the ſame end; namely, to rectifie and reforme thoſe ſo long predominant errours in the Church, which had almoſt growne up againe to that aboliſhed doctrine of Papiſme in this Realme, and obſcured the verity of true Re<g ref="char:EOLhyphen"/>ligion, by their Ceremonies and circumſtances, which were as vaine and uſeleſſe as they were ſuperſtitious and ridicu<g ref="char:EOLhyphen"/>lous, if not prophane and impious; yet for this our integrity, we know that divers have been apt to cenſure us, and im<g ref="char:EOLhyphen"/>pute this our zeale in Gods cauſe, to a deſire of Innovation; But ſurely our innocence acquits us of thoſe ſcandals, and
+<pb n="5" facs="tcp:155719:3"/>
+               <!-- PDF PAGE 74 -->they might as well blame <hi>Iehu</hi> for ſeeking to deſtroy all thoſe in Iſrael that had bowed to Baal, as us for our proſecu<g ref="char:EOLhyphen"/>tion by the Lawes of the Land, convicted Papiſts and Recu<g ref="char:EOLhyphen"/>ſants; and charged him therby, that he intended an innovation rather then a reformation in the Religion of the Iſraelites. For any other of our attempts or practiſes with which we ſtand charged, as namely, or at leaſt by evident circumſtance, for advancing the affaires of the Common wealth, and be<g ref="char:EOLhyphen"/>ing ſubſervient to the commands of the Honourable the High Court of Parliament, by putting their ordinances in practiſe for the levying of monies upon the inhabitants of the City of <hi>London,</hi> to help to defray the charge of the Army rai<g ref="char:EOLhyphen"/>ſed for the defence of His Majeſty and Parliament, certainly we had moſt convincing reaſons to indeare it as much as lay in our powers: For firſt, we beheld the Kingdome torne and dilacerated into a thouſand diſtractions by the counſels of malignants, who meerly aimed at their owne wicked and ſiniſter ends, and for that purpoſe, by their ſeditious deviſes had ſeparated His Majeſty from His High Court of Parli<g ref="char:EOLhyphen"/>ament, convocated by His ſacred authority, to treat of the doubtfull and difficult affaires of the Kingdome, and to ſet at right the oppreſſive abuſes thereof, the ſaid malignants ſee<g ref="char:EOLhyphen"/>king utterly to deſtroy the eſſence of Parliaments, wherein the ſafety of the Subject principally conſiſts, as is not un<g ref="char:EOLhyphen"/>knowne to all well affected perſons. We beheld likewiſe by the perverſe counſell of the ſaid malignants, an Army raiſed by His Majeſties command, for what end we could not con<g ref="char:EOLhyphen"/>jecture, unleſſe for the deſtruction of the Kingdome, the ſub<g ref="char:EOLhyphen"/>duing the people, and ſubverting the fundamentall Lawes of the Land, which Army, how deſtructive it hath been to the good ſubjects of the Realme, the inhumane plundrings of the Cavaliers, their taking away peoples eſtates, firing their houſes, and murdering their perſons, hath given to the whole world a ſufficient teſtimony, and after their bloudy peram<g ref="char:EOLhyphen"/>bulation through moſt of the Counties of the Kingdome, and their commitment of robberies and maſſacres. We beheld
+<pb n="6" facs="tcp:155719:4"/>
+               <!-- PDF PAGE 75 -->them drawing their forces this way towards this noble City of <hi>London,</hi> which was the marke their avarice ſhot at, the end which they in their ravenous minds had intended by all probabilities to arrive, the abundant wealth and infi<g ref="char:EOLhyphen"/>nite riches of this great and populous City, being that ſup<g ref="char:EOLhyphen"/>ply which they expected ſhould build up the ruines of their decayed fortunes, and be an ample ſalary for their deſperate deſignes, which had almoſt devoured the wealth of the whole Kingdome, and only thirſted for the ſpoyles of us and our families.</p>
+            <p>Beſides, in the ſaid army wee were as certaine there were gathered together as well Commanders as Soulders, di<g ref="char:EOLhyphen"/>vers notorious Popiſh Recuſants, who by the Lawes of the land ought not onely to beare armes, but likewiſe to be diſ<g ref="char:EOLhyphen"/>inabled from bearing armes, by taking away all their milita<g ref="char:EOLhyphen"/>ry furniture, and proviſion of warre: the whole Kingdome at leaſt the well-affected perſons thereof, evidently knowing that the ſword being once put into the hands of Papiſts, they would uſe it without all mercy againſt the breaſts of all true Proteſtants, and ſuch as were zealous in the worſhip of the Almighty; yet this Army wee ſaw drawne downe (at leaſt the better part thereof,) even to our very dores, within five miles of our habitations, threatening the City of <hi>London,</hi> and the Parliament there ſitting with unavoyded ruine, if they had not beene prevented, and the utter extirpation, as it was probable enough, of Gods true Religion; ſurrounded therefore with ſo many dangers and imminent perills which hung like ſo many teeming clouds over our heads, menacing deſtruction to our wives, houſes and families; nay, deſola<g ref="char:EOLhyphen"/>tion to the whole Citie, let all the world be but indifferent judges, whether we, who were interreſſed with the chiefe charge and care of the City, had not reaſon to looke about us, and provide for the ſafety of the City, one of us having the principall governement thereof, and the reſt of us be<g ref="char:EOLhyphen"/>ing able and ſufficient Members of the ſaid City, whe<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:155719:4"/>
+               <!-- PDF PAGE 75 -->we had not cauſe not onely to put the Order of the high Court of Parliament in practice with diligence, for the raiſing men and moneys for the defence of our ſelves and the City, but alſo to render them condigne and humble thankes for their care and proviſion for our ſecurities, and whether it was not requiſite that the City of <hi>London,</hi> being the capitall place of the Kingdome, and the chiefeſt Maga<g ref="char:EOLhyphen"/>zine it hath both for wealth and armes, ſhould advance the greateſt ſummes of moneys toward the ſupportment of theſe neceſſities, defenſive warres undertaken by the command and order of Parliament for the ſafegard of the ſubjects liberties, and the ſecurity of the true Proteſtant Religion. Certainly had the Citizens contributed in ſtead of the twentieth part the halfe of their Eſtates to an uſe ſo neceſſary and pious, they had but made a juſt domon<g ref="char:EOLhyphen"/>ſtration of their loves to the Common-wealth, and their cares to their ſelves and families, it being farre more re<g ref="char:EOLhyphen"/>quiſite for them to part with the twentieth part of their Eſtates, ſo to ſecure the reſt, then by the detention of that, not onely to hazard their whole lively hoods and fortunes, but their lives and liberties to the deſperate fury of thoſe Malignants and Cavaliers, who thinke of no other law, nor acknowledge no other conſcience but their inordinate luſts. And ſo confident are we of our integrities, having done nothing but what hath beene authoriſed us by Or<g ref="char:EOLhyphen"/>der from the high Court of Parliament; that wee both hope and believe when his ſacred Majeſty, abandoning the counſell of thoſe Malignants, who have incenſed his goodneſſe as well againſt his high Court of Parliament, as againſt us, ſhall really and rightly conſider our actions and intentions, his ſacred wiſdome will not onely acquit our in<g ref="char:EOLhyphen"/>nocences of any diſ-ſervice to himſelfe, the tranquillity of the Kingdome, or welfare of the City of <hi>London,</hi> by our forwardneſſe in ſetting forth the Order of the high Court of Parliament, and levying of moneys for the ſupport and
+<pb n="8" facs="tcp:155719:5"/>
+               <!-- PDF PAGE 76 -->maintenance of theſe warres againſt the Cavaliers, but will thanke us for our diligence, which hath beene a principall meanes to preſerve the City of <hi>London</hi> from devaſtation and ruine, and defended Gods true Religion from the machina<g ref="char:EOLhyphen"/>tions of Popiſh Recuſants; and for the Citizens of <hi>London,</hi> who may by the violence of the ſaid aſperſions be drawne to believe the ſaid opinions, wee all hope they will by this our Vindication of our innocence, be perſwaded to believe our integrities, which have alwayes tended to the ſervice of his Majeſtie and the advancement of the Common-wealth, the defence of the Proteſtant Religion, and the demonſtra<g ref="char:EOLhyphen"/>tion of our obedience to the honourable the high Court of Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
